@@ -1,2 +1,2 @@
-# ffmpeg_trancoder_script
+# ffmpeg_transcoder_script
 Bash script auto switch source input NVENC Support
